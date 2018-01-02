@@ -27,7 +27,7 @@ module.exports = {
                 //todo: make sure these fees are correct
                eth:[feeFactory(Fees.FLAT_FEE, '5000', Units.FINNEY), feeFactory(Fees.GAS_FEE, 'dynamic', Units.FINNEY, 'kraken generated ethereum tx txFee')],
                btc:{},
-               usd:feeFactory(Fees.FLAT_FEE, '5.0', Units.USD, 'kraken usd wire withdrawal fee'),
+               usd:feeFactory(Fees.FLAT_FEE, '500', Units.CENTS, 'kraken usd wire withdrawal fee'),
 
             },
             trading:{

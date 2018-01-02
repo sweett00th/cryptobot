@@ -20,7 +20,8 @@
     "gdax": "^0.4.2",
     "gemini-exchange-coffee-api": "^2.0.6",
     "kraken-api": "^1.0.0",
-    "ramda": "^0.25.0"
+    "ramda": "^0.25.0",
+    "web3": "^1.0.0-beta.27"
   },
   "babel": {
     "presets": [
