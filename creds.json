@@ -1,0 +1,14 @@
+{
+    "kraken":{
+        "key":"rFXm7y4m+yZN8lHeIbIkvcsH43RYxwjHAHrDeghCjEwg/jk5OdrVs/P/",
+        "secret":"6kraR2iJZtFgXY1SY3S9ypakjPhBo+DgJjygrvQX7CMiV4BWTBLZBZfFIZgTxkE2j/jyUDc38M9N44ZYITkJhw=="
+    },
+    "gemini":{
+        "key":"u562AAyHoAVbcROgW3cf",
+        "secret":"3xpKwyLck7kTuawNyURXLPX8sL7E"
+    },
+    "gdax":{
+        "key":"6226aed2bda302c2ebf48e877063a523",
+        "secret":"ikuwtS3T8hA5pfVJlFEWouiXsrrnhoJjPEe3nhInRJjtaPZXvSstEedEaMhGtYwHHDo520fPXrHTZA23BG7O5A=="
+    }
+}
